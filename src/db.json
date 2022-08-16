@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "name": "Go to library"
+    },
+    {
+      "id": 4,
+      "name": "Go to supermarket"
+    },
+    {
+      "name": "exercise",
+      "id": 6
+    },
+    {
+      "name": "sleeping",
+      "id": 7
+    },
+    {
+      "name": "play video",
+      "id": 8
+    },
+    {
+      "name": "study",
+      "id": 9
+    },
+    {
+      "name": "coding",
+      "id": 10
+    }
+  ]
+}
